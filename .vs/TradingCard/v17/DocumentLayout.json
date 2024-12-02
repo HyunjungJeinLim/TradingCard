@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\limsa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SODV2101(RAD)\\TradingCard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{667A6377-2749-4BBD-9E61-9DF65F8348EC}|TradingCard\\TradingCard.csproj|c:\\users\\limsa\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\sodv2101(rad)\\tradingcard\\tradingcard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{667A6377-2749-4BBD-9E61-9DF65F8348EC}|TradingCard\\TradingCard.csproj|solutionrelative:tradingcard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667A6377-2749-4BBD-9E61-9DF65F8348EC}|TradingCard\\TradingCard.csproj|c:\\users\\limsa\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\sodv2101(rad)\\tradingcard\\tradingcard\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667A6377-2749-4BBD-9E61-9DF65F8348EC}|TradingCard\\TradingCard.csproj|solutionrelative:tradingcard\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667A6377-2749-4BBD-9E61-9DF65F8348EC}|TradingCard\\TradingCard.csproj|c:\\users\\limsa\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\sodv2101(rad)\\tradingcard\\tradingcard\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667A6377-2749-4BBD-9E61-9DF65F8348EC}|TradingCard\\TradingCard.csproj|solutionrelative:tradingcard\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667A6377-2749-4BBD-9E61-9DF65F8348EC}|TradingCard\\TradingCard.csproj|c:\\users\\limsa\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\sodv2101(rad)\\tradingcard\\tradingcard\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667A6377-2749-4BBD-9E61-9DF65F8348EC}|TradingCard\\TradingCard.csproj|solutionrelative:tradingcard\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667A6377-2749-4BBD-9E61-9DF65F8348EC}|TradingCard\\TradingCard.csproj|c:\\users\\limsa\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\sodv2101(rad)\\tradingcard\\tradingcard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667A6377-2749-4BBD-9E61-9DF65F8348EC}|TradingCard\\TradingCard.csproj|solutionrelative:tradingcard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667A6377-2749-4BBD-9E61-9DF65F8348EC}|TradingCard\\TradingCard.csproj|c:\\users\\limsa\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\sodv2101(rad)\\tradingcard\\tradingcard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667A6377-2749-4BBD-9E61-9DF65F8348EC}|TradingCard\\TradingCard.csproj|solutionrelative:tradingcard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\limsa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SODV2101(RAD)\\TradingCard\\TradingCard\\Form1.cs",
+              "RelativeDocumentMoniker": "TradingCard\\Form1.cs",
+              "ToolTip": "C:\\Users\\limsa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SODV2101(RAD)\\TradingCard\\TradingCard\\Form1.cs [Design]",
+              "RelativeToolTip": "TradingCard\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:38:26.947Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\limsa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SODV2101(RAD)\\TradingCard\\TradingCard\\Form1.cs",
+              "RelativeDocumentMoniker": "TradingCard\\Form1.cs",
+              "ToolTip": "C:\\Users\\limsa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SODV2101(RAD)\\TradingCard\\TradingCard\\Form1.cs",
+              "RelativeToolTip": "TradingCard\\Form1.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAwwJEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:39:38.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\limsa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SODV2101(RAD)\\TradingCard\\TradingCard\\Program.cs",
+              "RelativeDocumentMoniker": "TradingCard\\Program.cs",
+              "ToolTip": "C:\\Users\\limsa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SODV2101(RAD)\\TradingCard\\TradingCard\\Program.cs",
+              "RelativeToolTip": "TradingCard\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:41:33.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\limsa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SODV2101(RAD)\\TradingCard\\TradingCard\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TradingCard\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\limsa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SODV2101(RAD)\\TradingCard\\TradingCard\\Form1.Designer.cs",
+              "RelativeToolTip": "TradingCard\\Form1.Designer.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAAALAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:39:20.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prompt.cs",
+              "DocumentMoniker": "C:\\Users\\limsa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SODV2101(RAD)\\TradingCard\\TradingCard\\Prompt.cs",
+              "RelativeDocumentMoniker": "TradingCard\\Prompt.cs",
+              "ToolTip": "C:\\Users\\limsa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SODV2101(RAD)\\TradingCard\\TradingCard\\Prompt.cs",
+              "RelativeToolTip": "TradingCard\\Prompt.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:39:11.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\limsa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SODV2101(RAD)\\TradingCard\\TradingCard\\Player.cs",
+              "RelativeDocumentMoniker": "TradingCard\\Player.cs",
+              "ToolTip": "C:\\Users\\limsa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SODV2101(RAD)\\TradingCard\\TradingCard\\Player.cs",
+              "RelativeToolTip": "TradingCard\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:38:49.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
